@@ -1,6 +1,7 @@
-DAX Formulas
+## 🧮 DAX Formulas
 
 -- 💰 SALES & PROFIT
+
 Total Sales = SUM(AmazonSales[Sales])
 
 Total Profit = SUM(AmazonSales[Profit])
@@ -9,6 +10,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales]) * 100
 
 
 -- 📦 ORDERS & QUANTITY
+
 Total Orders = DISTINCTCOUNT(AmazonSales[Order ID])
 
 Total Quantity = SUM(AmazonSales[Quantity])
@@ -17,6 +19,7 @@ AOV (Average Order Value) = DIVIDE([Total Sales], [Total Orders])
 
 
 -- 🚚 SHIPPING & RETURNS
+
 Total Shipping Cost = SUM(AmazonSales[Shipping Cost])
 
 Return Rate % =
@@ -27,6 +30,7 @@ DIVIDE(
 
 
 -- 📈 TREND ANALYSIS
+
 Monthly Sales =
 CALCULATE(
     [Total Sales],
@@ -47,6 +51,7 @@ DIVIDE(
 
 
 -- 🏆 PRODUCT ANALYSIS
+
 Category Sales = SUM(AmazonSales[Sales])
 
 Top Products Rank =
