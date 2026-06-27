@@ -139,3 +139,9 @@ Amazon generates sales across multiple markets, categories, countries, cities, a
 - Power BI Service Deployment
 - Mobile Dashboard Optimization
 
+---
+
+🏁 Conclusion
+This Amazon Sales Dashboard project helps to analyze overall business performance using Power BI. It provides clear insights into sales, profit, and customer behavior across different categories and time periods.
+By using DAX measures and interactive visuals, we can easily identify top-performing products, track monthly sales trends, and understand profit margins. This dashboard supports data-driven decision making and improves business understanding in a simple and effective way.
+
