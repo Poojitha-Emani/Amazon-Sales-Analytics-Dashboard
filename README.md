@@ -106,6 +106,19 @@ Amazon generates sales across multiple markets, categories, countries, cities, a
 
 ---
 
+## 📊 DAX Measures Used
+
+- Total Sales  
+- Total Orders  
+- Total Profit  
+- Profit Margin %  
+- AOV  
+- Return Rate %  
+- Monthly Sales Trend  
+- Top Products Ranking
+
+---
+
 💼 Skills Demonstrated
 
 - Data Cleaning
